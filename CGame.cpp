@@ -1,6 +1,6 @@
 #include "StdInc.h"
 
-void CGame::InitialiseOnceBeforeRW()
+void CGame::InitialiseOnceBeforeRW() //inalization before render ware engine
 {
     CMemoryMgr::Init();
     CLocalisation::Initialise();
