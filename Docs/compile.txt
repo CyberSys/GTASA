@@ -1,0 +1,10 @@
+Compiling guide by QCherry (Łukasz Wisniewski) 2016-02-08-----------------
+---------------------------------------------------------------------------
+Use Cmake GUI for windows to create solution for visual studio
+
+In CMake select Visual Studio 2005 project 
+
+-----------------
+You must have DirectX SDK and Windows SDK linked in visual studio project!
+
+//Enjoy compiled source!
